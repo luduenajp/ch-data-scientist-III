@@ -6,10 +6,10 @@ Este repositorio contiene los ejercicios resueltos correspondientes al curso de 
 
 ## Archivos del Proyecto
 
-### 1. [JP_Taller_Fake_News.ipynb](jpl_tp_nlp_fake_news.ipynb)
+### 1. [jpl_tp_nlp_fake_news.ipynb](jpl_tp_nlp_fake_news.ipynb)
 Este notebook aborda un taller práctico para la detección de noticias falsas utilizando técnicas de **Procesamiento de Lenguaje Natural (NLP)**. 
 
-### 2. [JP_CODER_Ejercicio_Final.ipynb](jpl_tp_procesamiento_imagenes.ipynb)
+### 2. [jpl_tp_procesamiento_imagenes.ipynb](jpl_tp_procesamiento_imagenes.ipynb)
 Este notebook desarrolla un modelo de **Deep Learning** para la clasificación de imágenes del dataset **Fashion-MNIST**. 
 
 ## Autor: Juan Pablo Ludueña - 33957678 - luduenajp@gmail.com
